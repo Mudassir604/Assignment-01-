@@ -3,10 +3,6 @@ base =  10
 height = 20
 area = 0.5 * base * height
 print(f"The area of the triangle is: {area}")
-
-
-#q2
-
 def square_area(side):
     return side * side
 
